@@ -1,4 +1,5 @@
 🚀 Counter 2.0
+
 A simple yet enhanced counter application built with React.js, showcasing conditional rendering, button control, and logic-based output like Even/Odd and Prime Number detection.
 
 🔼 Increment Button
