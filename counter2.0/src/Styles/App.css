@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+}
+.App {
+  height: 400px;
+  width: 60%;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #ffd5ec 0%, #c3c0f9 100%);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #0f172a;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: -25%;
+  letter-spacing: 1px;
+}
+
+.btns {
+  display: flex;
+  gap: 15px;
+  margin-top: 3%;
+}
+
+#button {
+  padding: 10px 18px;
+  font-size: 18px;
+  background-color: #aa54b7d5;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  
+}
+#resent-btn {
+  position: absolute;
+  top: 41%;
+  right: 42%;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #b95888;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+ 
+}
+#count {
+  position: absolute;
+  top: 55%;
+  left: 43%;
+  font-size: 32px;
+  font-weight: bold;
+  color: #1e293b;
+}
+#even {
+  font-size: 26px;
+  font-weight: 600;
+  position: absolute;
+  top: 67%;
+  left: 36%;
+  margin-top: 10px;
+  display: block;
+  color: #7c1d1d;
+}
+#prime {
+  font-size: 26px;
+  font-weight: 600;
+  position: absolute;
+  top: 80%;
+  left: 36%;
+  margin-top: 10px;
+  display: block;
+  color: #7c1d1d;
+}
+#even {
+  color: #7c1d1d;
+}
+
+#prime {
+  color: #7c1d1d;
+}
