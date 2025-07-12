@@ -1,0 +1,76 @@
+*
+{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body
+{
+  font-family: 'Poppins', sans-serif;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5b-DPdMsanihLuDPN18O5QWZNdJlrmqHjw&s");
+  color: #333;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:1440px;
+  width: 80%;
+  margin: auto;
+
+}
+h1
+{
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 6%;
+}
+button
+{
+  background-color: #b755a0;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-left: 37%;
+  margin-right: 2%;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  
+  
+}
+#next
+{
+  background-color: #c46fac;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-left: 2%;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.card
+{
+  background-color: #7bbbcbaa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(10, 11, 11, 0.1);
+  padding: 20px;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  margin: 20px auto;
+  margin: 20px;
+  text-align: center;
+}
+.id
+{
+  font-size: 23px;
+  color: #555;
+  margin-bottom: 10px;
+}
+.title
+{
+  font-size:18px;
+  padding: 15px 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
