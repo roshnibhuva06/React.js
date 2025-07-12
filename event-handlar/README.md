@@ -30,4 +30,4 @@ Is disabled if the current page is the last (based on total number of posts/page
 
 The current page number is displayed between the navigation buttons.
 
-video:
+video:https://drive.google.com/file/d/1gRIXVkI-mUwhQVjOzMtwdFEKghjD_gry/view?usp=sharing
