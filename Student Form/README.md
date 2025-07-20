@@ -27,4 +27,7 @@ The main goal of this project is to:
 
 ✅ Encourage best practices in layout, accessibility, and form semantics
 
-video Explanation:
+
+<img width="1888" height="874" alt="Screenshot 2025-07-20 213201" src="https://github.com/user-attachments/assets/e3a62538-507f-4ef2-9c81-8d2ee7aaf8a8" />
+
+video Explanation:https://drive.google.com/file/d/1eXiYZiFyipTVddbJ8c_mquXmZETXWPF2/view?usp=sharing
