@@ -1,4 +1,4 @@
-🧑‍🎓 Student Registration Form
+<h1>🧑‍🎓 Student Registration Form</h1>
 
 📖 Project Description
 This project focuses on building a modern and accessible student registration form that can be used in schools, colleges, or any educational platform that requires new student enrollment or account creation. The form contains input fields for the student's Full Name, Email Address, Password, and Gender Selection. It follows a clean design with intuitive labeling and spacing, making it suitable for both desktop and mobile users.
