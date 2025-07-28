@@ -23,8 +23,8 @@ This repository contains a fully responsive UI clone built using React.js and Bo
 #reactjs #bootstrap5 #frontenddevelopment #uiclone #pixelperfect #responsivedesign 
 #reactproject #reactbootstrap #htmlcss #codingchallenge #webdevelopment #uiintegration
 
-<img width="600" height="400" alt="pic" src="https://github.com/user-attachments/assets/cd69bf9a-2d15-4fca-87c2-6fb4808ed502" />
 
+<img width="1911" height="849" alt="pic" src="https://github.com/user-attachments/assets/24336faa-ee5a-4b96-8a4b-601e83d4df8b" />
 
 
 Explanation video:https://drive.google.com/file/d/1sO3jbCrds5vutqSjsh6M6yYXkvXYsHvh/view?usp=sharing
